@@ -1,14 +1,11 @@
 # ndigits
 
-A Clojure library designed to ... well, that part is up to you.
+clojure text game.
 
-## Usage
+## 소개
 
-FIXME
+Clojure로 개발한 숫자야구 게임.
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2013 ppodoru
