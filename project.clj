@@ -1,4 +1,4 @@
-(defproject ndigits "0.1.0"
+(defproject ndigits "0.1.1-SNAPSHOT"
   :description "clojure text game"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
