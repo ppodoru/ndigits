@@ -27,6 +27,13 @@ lein deps # run this if you're using lein 1.x
 lein run
 ```
 
+### leiningen 설치 방법
+```bash
+wget "https://raw.github.com/technomancy/leiningen/stable/bin/lein"
+mv lein ~/bin
+chmod 755 ~/bin/lein
+```
+
 ## License
 
 Copyright © 2013 ppodoru
